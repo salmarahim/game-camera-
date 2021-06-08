@@ -1,1 +1,2 @@
-# game-camera-
+# synchronousBallMovement
+Ball moving synchronously
